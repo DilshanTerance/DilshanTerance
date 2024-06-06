@@ -1,7 +1,8 @@
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello 👋, I'm Dilshan Terance</h1></summary>
+    <summary><h1 style="display: inline-block">Hello, I'm Dilshan Terance<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1></summary>
   </ul>
 </div>
 
@@ -10,7 +11,7 @@
 
 <!--Passionate IT student and designer exploring technology and creativity-->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=15&center=true&vCenter=true&width=600&height=50&lines=Passionate+IT+Student+and+Designer+|+Exploring+technology+and+creativity&repeat=false"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=14&center=true&vCenter=true&width=600&height=50&lines=Passionate+IT+Student+and+Designer+|+Exploring+technology+and+creativity&repeat=false"></a>
 </p>
 
 <!--About me-->
@@ -21,7 +22,13 @@
   <h3 style="font-size: 24px;">About me</h3>
 
   <p>  
-I am an undergraduate student studying Software Engineering and Web Developing🧑‍🎓. I design eye-catching graphics and user-friendly interfaces as a graphic and UI designer. 🌱 Currently, I'm delving into Web Development and other programming languages. 🤝 I'm enthusiastic about collaborating on open-source web development projects. Feel free to drop me an email at teranzdilshan@gmail.com; I'll respond as soon as possible. ✉️
+I am an undergraduate student studying Software Engineering and Web Developing🧑‍🎓.<br><br>
+    I design eye-catching graphics and user-friendly interfaces as a graphic and UI designer.<br><br>
+    🌱 Currently, I'm delving into Web Development and other programming languages.<br><br>
+    🤝 I'm enthusiastic about collaborating on open-source web development projects. <br><br>
+    Feel free to drop me an email at <a href="mailto:teranzdilshan@gmail.com">teranzdilshan@gmail.com</a>; I'll respond as soon as possible. ✉️<br><br>
+    I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, 
+    this is <a href="https://drive.google.com/file/d/1OLxeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
   </p>
 </div>
 
