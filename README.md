@@ -28,7 +28,7 @@ I am an undergraduate student studying Software Engineering and Web Developing�
     🤝 I'm enthusiastic about collaborating on open-source web development projects. <br><br>
     Feel free to drop me an email at <a href="mailto:teranzdilshan@gmail.com">teranzdilshan@gmail.com</a>; I'll respond as soon as possible. ✉️<br><br>
     I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, 
-    this is <a href="https://drive.google.com/file/d/1OLxeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+    this is <a href="[https://drive.google.com/file/d/1OLxeZf/view?usp=sharing](https://1drv.ms/b/c/3ce5e2e6d34ab0a1/EcWGgypZllFKrf9YlNzEbGEB5flP65_FCPwD0szetJhYyw?e=orV85O)" target="_blank">MY RESUME.</a>
   </p>
 </div>
 
